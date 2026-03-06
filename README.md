@@ -2,15 +2,16 @@
 
 **Monday, May 18, to Friday, May 22, 2026**
 
-
-## Instructors and Mentors
-
-Please list your instructors and mentors below!
-
-| Instructor | Affiliation | Links |
+## Organizers
+| Name | Affiliation | Links |
 | :------- | ------- |:------- |
 | Scott Collis | Argonne National Laboratory | [Github](https://github.com/scollis) |
 | Joseph O'Brien | Argonne National Laboratory | [Github](https://github.com/jrobrien91) |
+
+## Instructors and Mentors
+
+| Instructor | Affiliation | Links |
+| :------- | ------- |:------- |
 | Mark Spychala | Argonne National Laboratory  | [Github](https://github.com/Metspy) |
 | Adam Theisen | Argonne National Laboratory | [Github](https://github.com/AdamTheisen) |
 | Patty Campbell | Argonne National Laboratory |  |
