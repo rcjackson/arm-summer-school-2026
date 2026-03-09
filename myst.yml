@@ -34,7 +34,7 @@ project:
     - title: Logistics + Information
       children:
         - file: SCHEDULE.md
-        - file: organizers/mentors2.md
+        - file: organizers/mentors.md
     - title: Preparation
       children:
         - file: preliminary/checklist_index
