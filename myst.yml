@@ -31,8 +31,10 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - file: SCHEDULE.md
-    - file: organizers/mentors.md
+    - title: Logistics + Information
+      children:
+        - file: SCHEDULE.md
+        - file: organizers/mentors2.md
     - title: Preparation
       children:
         - file: preliminary/checklist_index
@@ -48,11 +50,15 @@ project:
       children:
         - title: Introduction to ARM Open Source Software
           children:
-            - file: notebooks/act/ACT-Basics-BNF.ipynb
-            - file: notebooks/act/act-tower-data.ipynb
-            - file: notebooks/pyart/pyart-basics.ipynb
-            - file: notebooks/pyart/pyart-corrections.ipynb
-            - file: notebooks/pyart/pyart-qpe.ipynb
+            - title: Atmospheric data Community Toolkit (ACT)
+              children:
+                - file: notebooks/act/ACT-Basics-BNF.ipynb
+                - file: notebooks/act/act-tower-data.ipynb
+            - title: Python-ARM Radar Toolkit (Py-ART)
+              children:
+                - file: notebooks/pyart/pyart-basics.ipynb
+                - file: notebooks/pyart/pyart-corrections.ipynb
+                - file: notebooks/pyart/pyart-qpe.ipynb
         - title: ARM Decadal Analysis Workflows
           children:
             - file: notebooks/decadal/ecor-ebbr.ipynb
@@ -67,3 +73,11 @@ site:
   nav:
     - title: ARM Home
       url: https://www.arm.gov/
+    - title: ARM SGP
+      url: https://www.arm.gov/capabilities/observatories/sgp
+    - title: ARM Data
+      url: https://adc.arm.gov/discovery/results/
+    - title: ARM DQO PlotBrowser
+      url: https://dq.arm.gov/dq-plotbrowser/
+    - title: ARM JupyterHub
+      url: https://jupyterhub.arm.gov/
