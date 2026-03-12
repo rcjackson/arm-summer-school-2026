@@ -2,6 +2,8 @@
 
 The 2026 ARM Big Open Data Summer School is hosted by the [Cooperative Institute for Severe and High-Impact Weather Research and Operations (CIWRO)](https://www.ou.edu/ciwro) at the University of Oklahoma. 
 
+<br>
+
 ## National Weather Center
 
 The 2026 Summer School will primarily be held in the [National Weather Center](https://www.ou.edu/nwc), in Room ####. 

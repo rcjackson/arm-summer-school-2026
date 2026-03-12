@@ -23,14 +23,11 @@ We will be using the JupyterHub (https://jupyterhub.arm.gov) throughout this wor
 We encourage you to test your [connection to JupyterHub](../checklist/jupyterhub) before the training.
 ```
 
-## Schedule
+## Training Material
 
 ### Jupyter, Git, and Unix Shell
 
 This lessons covers:
-
-* http://swcarpentry.github.io/shell-novice/
-* http://swcarpentry.github.io/git-novice/
 
 * Introductions and getting connected
 * Getting connected to JupyterHub environment via GitHub
@@ -41,8 +38,6 @@ This lessons covers:
 ### Python Programming Language
 
 This lessons covers:
-
-* http://swcarpentry.github.io/python-novice-gapminder/
 
 * Jupyter Notebooks, running Python code, [Topics 1 to 3](http://swcarpentry.github.io/python-novice-gapminder)
 * Variables, datatypes, libraries, [Topics 3,4,6](http://swcarpentry.github.io/python-novice-gapminder)

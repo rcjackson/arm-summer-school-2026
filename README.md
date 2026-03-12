@@ -33,3 +33,26 @@ The overarching mission of the summer school is to enhance the scientific impact
 | Sid Gupta | Argonne National Laboratory | [Github](https://github.com/sgupta92) |
 | Robert Jackson | Argonne National Laboratory | [Github](https://github.com/rcjackson) |
 | Bhupendra Raut | Argonne National Laboratory | [Github](https://github.com/RBhupi) |
+
+## Running on Your Own Machine
+If you are interested in running this material locally on your computer, you will need to follow this workflow:
+
+1. Clone the [2026 ARM Summer School](https://github.com/ARM-Development/arm-summer-school-2026) repository:
+
+   ```bash
+    git clone https://github.com/ARM-Development/arm-summer-school-2026
+    ```  
+1. Move into the `arm-summer-school-2026` directory
+    ```bash
+    cd arm-summer-school-2026
+    ```  
+1. Create and activate your conda environment from the `environment.yml` file
+    ```bash
+    conda env create -f environment.yml
+    conda activate arm-summer-school-2026-dev
+    ```  
+1.  Move into the `notebooks` directory and start up Jupyterlab
+    ```bash
+    cd notebooks/
+    jupyter lab
+    ```

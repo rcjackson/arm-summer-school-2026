@@ -1,6 +1,8 @@
 # Skills Refresher
 
-Our hackweeks focus on applied, hands-on learning, with participants engaging in extended periods of small-group work. Our tutorials are designed to offer a broad snapshot of data science tools to support your applied investigations. Due to the relatively short duration of our events, we are not able to provide comprehensive, in-depth training in fundamental tools. Rather, our goal is to inform you about the types of tools we think are best suited to working with your datasets, leaving details of implementation to be supported through peer-learning and office hours.
+The focus of the ARM Big Open Data Summer School is on applied, hands-on learning, with participants engaging in extended periods of small-group work. Our tutorials are designed to offer a broad snapshot of data science tools to support your applied investigations. 
+
+Due to the relatively short duration of the week, we are not able to provide comprehensive, in-depth training in fundamental tools. Rather, our goal is to inform you about the types of tools we think are best suited to working with your datasets, leaving details of implementation to be supported through peer-learning and office hours.
 
 ## Typical Workflows and Tools
 
@@ -17,21 +19,23 @@ with data science tools during an event:
   on an interactive map.
 * Exploring multi-dimensional climate grids using xarray.
 
-These are examples of the types of activities we do at a hackweek in a
+These are examples of the types of activities we do in a
 collaborative setting. We invite you to reflect on your comfort level with tasks
-such as these so that you can arrive at the hackweek with a clarity on where to
-dedicate your energy. If wish to focus more energy on learning and implementing
+such as these so that you can arrive at the Summer School with a clarity on where to dedicate your energy. 
+
+If wish to focus more energy on learning and implementing
 new tools, we will support you with helpers and office hours, and you may have a
-bit less time for applied group work. If you are already proficient in a lot of
+bit less time for applied group work. 
+
+If you are already proficient in a lot of
 tools you may find you can dedicate more energy to applied project work, which
 we support through facilitated group activities.
 
 ## Software Carpentry Session
 
 We strongly suggest that participants who are just beginning to learn Python and
-collaborative data science tools to complete our
-recorded ([Software Carpentry Training](./skills-refresher/swc)) in advance of the hackweek. You
-may choose whichever topics you'd like to brush up on or learn.
+collaborative data science tools to complete the training material
+([Software Carpentry Training](./skills-refresher/swc)) in advance of the Summer School. You may choose whichever topics you'd like to brush up on or learn.
 
 ## Project Pythia
 

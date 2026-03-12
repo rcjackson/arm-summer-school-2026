@@ -40,16 +40,17 @@ project:
       children:
         - file: preliminary/checklist_index
           children:
+            - file: preliminary/checklist/armdata
             - file: preliminary/checklist/github
             - file: preliminary/checklist/jupyterhub
             - file: preliminary/checklist/git
-            - file: preliminary/checklist/armdata
         - file: preliminary/skills_refresher_index
           children:
             - file: preliminary/skills-refresher/swc
+            - file: preliminary/skills-refresher/project-pythia.md
     - title: Tutorials
       children:
-        - title: Introduction to ARM Open Source Software
+        - title: ARM Open Source Software
           children:
             - title: Atmospheric data Community Toolkit (ACT)
               children:
@@ -65,7 +66,7 @@ project:
             - file: notebooks/decadal/ecor-ebbr.ipynb
     - title: Projects
       children:
-        - file: projects/README.md
+        - file: projects/projects.md
 site:
   options:
     logo: images/arm_logo.png
