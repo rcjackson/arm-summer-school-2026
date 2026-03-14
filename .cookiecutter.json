@@ -1,12 +1,12 @@
 {
-    "hackathon_repo_name": "hackathon-template-github",
-    "hackathon_full_name": "My Hackathon Name",
-    "hackathon_short_description": "My short description",
-    "start_date": "2024-12-01",
-    "end_date": "2024-12-01",
-    "organization_github": "your_org",
-    "lead_instructor_name": "Instructor Name",
-    "lead_instructor_affiliation": "Lead Instructor Affiliation",
-    "lead_instructor_github": "username",
-    "lead_instructor_orcid": "XXXX-XXXX-XXXX-XXXX"
+    "hackathon_repo_name": "arm-summer-school-2026",
+    "hackathon_full_name": "2026 ARM Big Open Data Summer School",
+    "hackathon_short_description": "The overarching mission of the summer school is to enhance the scientific impact of ARM observations through the instruction of students in new techniques to gain insight into atmospheric processes using open science tools.",
+    "start_date": "2026-05-18",
+    "end_date": "2026-05-22",
+    "organization_github": "Atmospheric Radiation Measurement User Facility",
+    "lead_instructor_name": "Joseph R. O'Brien",
+    "lead_instructor_affiliation": "Argonne National Laboratory",
+    "lead_instructor_github": "jrobrien91",
+    "lead_instructor_orcid": "0000-0003-4655-6912"
   }
