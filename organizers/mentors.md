@@ -45,3 +45,25 @@ Dr. Bhupendra Raut's research focuses on improving atmospheric observations and 
 | Bhupendra Raut | Argonne National Laboratory | TBD | [Professional Website](https://www.anl.gov/profile/bhupendra-a-raut) <br> [Github](https://github.com/RBhupi) |
 
 ```
+
+```{figure} ../images/headshots/Gustafson_0.jpg
+:width: 250px
+
+Dr. Gustafson’s research focuses on the development and application of global atmospheric, weather, and large-eddy simulation models with emphasis on cloud parameterization, aerosol-cloud interactions, regional downscaling, and issues of scale and scale dependencies within atmospheric models. In 2010, he was awarded a U.S. Department of Energy (DOE) Early Career award to study scale adaptability of atmospheric model parameterizations. Currently, he works with the DOE Atmospheric Radiation Measurement (ARM) user facility to develop the Large-Eddy Simulation (LES) ARM Symbiotic Simulation and Observation (LASSO) activity for routine LES modeling that complements ARM’s extensive atmospheric measurement capabilities. Gustafson has contributed substantially to the development of the chemistry version of the Weather Research and Forecasting (WRF) model to advance understanding of aerosol feedbacks to clouds and radiation, and has been the principal investigator on a NOAA project studying aerosol-cloud interactions. For his dissertation work, Dr. Gustafson studied Tropical dynamics with a focus on the Madden-Julian Oscillation.
+
+| Instructor | Affiliation | Project Lead  | Links |
+| :--------: | :---------: | :-----------: | :---: |
+| Bill Gustafson | Pacific Northwest National Laboratory | TBD | [Github](https://github.com/wgustafson) |
+
+```
+
+```{figure} ../images/headshots/theisen-headshot.png
+:width: 250px
+
+Adam Theisen is the Instrument Operations Manager for the U.S. Department of Energy’s Atmospheric Radiation Measurement (ARM) User Facility, where he leads the strategic planning, coordination, and execution of instrument operations across ARM’s fixed and mobile observatories. He oversees a diverse portfolio of atmospheric sensing systems—including cloud and precipitation radars, lidars, radiometers, and in situ instrumentation—with an emphasis on operational reliability, calibration integrity, and data readiness. Adam serves as the lead for the Atmospheric data Community Toolkit (ACT). Previous research efforts and interest include long-term data analysis, winter weather, and polarimetric radar.
+
+| Instructor | Affiliation | Project Lead  | Links |
+| :--------: | :---------: | :-----------: | :---: |
+| Adam Theisen | Argonne National Laboratory | TBD | [Professional Website](https://www.anl.gov/profile/adam-k-theisen) <br> [Github](https://github.com/AdamTheisen) |
+
+```

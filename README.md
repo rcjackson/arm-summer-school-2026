@@ -29,10 +29,9 @@ The overarching mission of the summer school is to enhance the scientific impact
 | :------- | ------- |:------- |
 | Mark Spychala | Argonne National Laboratory  | [Github](https://github.com/Metspy) |
 | Adam Theisen | Argonne National Laboratory | [Github](https://github.com/AdamTheisen) |
-| Patty Campbell | Argonne National Laboratory |  |
-| Sid Gupta | Argonne National Laboratory | [Github](https://github.com/sgupta92) |
 | Robert Jackson | Argonne National Laboratory | [Github](https://github.com/rcjackson) |
 | Bhupendra Raut | Argonne National Laboratory | [Github](https://github.com/RBhupi) |
+| Bill Gustafson | Pacific Northwest National Laboratory | [Github](https://github.com/wgustafson) |
 
 ## Running on Your Own Machine
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
