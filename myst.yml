@@ -23,10 +23,12 @@ project:
     - name: Mark Spychala
       orcid: 0000-0001-9821-9411
       github: Metspy
-    - name: Patty Campbell
-      orcid: 0000-0003-4509-4031
-    - name: Sid Gupta
-      orcid: 0000-0002-0663-4595
+    - name: Adam Theisen
+      orcid: 0000-0002-7602-1057
+      github: AdamTheisen
+    - name: Bill Gustafson
+      orcid: 0000-0001-9927-1393
+      github: wgustafson
   github: https://github.com/jrobrien91/arm-summer-school-2026
   bibliography: references.bib
   # To autogenerate a Table of Contents, run "myst init --write-toc"
@@ -65,6 +67,9 @@ project:
         - title: ARM Decadal Analysis Workflows
           children:
             - file: notebooks/decadal/ecor-ebbr.ipynb
+        - title: AI/ML for Atmospheric Science
+          children:
+            - file: notebooks/ai-ml/unsupervised-learning-sonde.ipynb
     - title: Projects
       children:
         - file: projects/projects.md
