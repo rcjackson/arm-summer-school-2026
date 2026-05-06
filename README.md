@@ -27,11 +27,15 @@ The overarching mission of the summer school is to enhance the scientific impact
 
 | Instructor | Affiliation | Links |
 | :------- | ------- |:------- |
-| Mark Spychala | Argonne National Laboratory  | [Github](https://github.com/Metspy) |
-| Adam Theisen | Argonne National Laboratory | [Github](https://github.com/AdamTheisen) |
-| Robert Jackson | Argonne National Laboratory | [Github](https://github.com/rcjackson) |
-| Bhupendra Raut | Argonne National Laboratory | [Github](https://github.com/RBhupi) |
+| Mark Spychala  | Argonne National Laboratory           | [Github](https://github.com/Metspy) |
+| Adam Theisen   | Argonne National Laboratory           | [Github](https://github.com/AdamTheisen) |
+| Robert Jackson | Argonne National Laboratory           | [Github](https://github.com/rcjackson) |
+| Bhupendra Raut | Argonne National Laboratory           | [Github](https://github.com/RBhupi) |
 | Bill Gustafson | Pacific Northwest National Laboratory | [Github](https://github.com/wgustafson) |
+| Alyssa Sockol  | University of Oklahoma/CIWRO          | [Github](https://github.com/ajsockol) |
+| Maria Cadeddu  | Argonne National Laboratory           |  |
+| Connor Flynn   | University of Oklahoma                | [Github](https://github.com/ConnorJFlynn) |
+| Hsi-Yen Ma     | Lawrence Livermore National Laboratory | [Github](https://github.com/hyma68) |
 
 ## Running on Your Own Machine
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
