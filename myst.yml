@@ -58,7 +58,6 @@ project:
             - title: Atmospheric data Community Toolkit (ACT)
               children:
                 - file: notebooks/act/ACT-Basics-SGP.ipynb
-                - file: notebooks/act/act-tower-data.ipynb
             - title: Python-ARM Radar Toolkit (Py-ART)
               children:
                 - file: notebooks/pyart/pyart-basics.ipynb
