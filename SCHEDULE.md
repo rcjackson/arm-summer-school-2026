@@ -18,22 +18,26 @@ Links to each presentation are included within. However, users may need to reque
 ### Introduction Session
 | Time                 | Topic                                           | Presenter(s)                       |
 | :---:                | :----:                                          | :---:                              |
+| 07:45 AM - 08:00 AM  | Travel to National Weather Center               |                                    |
 | 08:30 AM - 09:00 AM  | Intro to ARM                                    | Jim Mather and Sally McFarlane     |
-| 09:00 AM - 09:30 AM  | Intro to 2026 Summer School and SGP             | Scott Collis and Joe O'Brien       |
-| 09:30 AM - 10:00 AM  | Intro to ARM Accounts and Site Access  Requests | Mark Spychala                      |
+| 09:00 AM - 09:15 AM  | Host Introduction - CIWRO                       | Greg McFarqhuar                    |
+| 09:15 AM - 10:00 AM  | Intro to 2026 Summer School and SGP             | Scott Collis and Joe O'Brien       |
 | 10:00 AM - 10:30 AM  | Coffee/Tea Break                                |                                    |
-| 10:30 AM - 11:00 AM  | Data Quality Operations in ARM                  | Alyssa Sockol                      |
-| 11:00 AM - 12:00 PM  | Intro to ARM Data/Accounts                      | Michael Giansiracusa               |
+| 10:30 AM - 11:00 AM  | Intro to ARM Accounts and Site Access  Requests | Mark Spychala                      |
+| 11:00 AM - 11:30 PM  | Intro to ARM Data/Accounts                      | Michael Giansiracusa               |
+| 11:30 AM - 12:00 AM  | Data Quality Operations in ARM                  | Alyssa Sockol                      |
 | 12:00 PM - 01:00 PM  | Lunch and Learn 1: Elevator Pitch Introductions | Joe O'Brien                        |
 
 ### Fundamental Science Session
 | Time                 | Topic                                           | Presenter(s)                       |
-| :---:                | :----:                                          | :---:                              |
-| 01:00 PM - 01:30 PM  | Fundamentals of Aerosol Instrumentation         | Maria Zawadowicz                   |
-| 01:30 PM - 02:00 PM  | Fundamentals of Remote Sensing                  | Connor Flynn                       |
-| 02:00 PM - 02:30 PM  | Fundamentals of Radar Meteorology               | Marqi Rocque and Scott Collis      |
-| 02:30 PM - 03:00 PM  | Fundamentals of In-Situ Meteorology             | TBD                                |
-| 03:00 PM - 04:00 PM  | TBD                                             | TBD                                |
+| :----:               | :----:                                          | :---:                              |
+| 01:00 PM - 01:20 PM  | Fundamentals of Cloud Microphysics              | Andrew Dzambo                      |
+| 01:20 PM - 01:40 PM  | Fundamentals of Aerosol Observations            | Maria Zawadowicz                   |
+| 01:40 PM - 02:00 PM  | Fundamentals of Remote Sensing and Atmospheric Radiation | Connor Flynn              |
+| 02:00 PM - 02:20 PM  | ARM Decadal Analysis                            | Adam Theisen                       |
+| 02:20 PM - 02:40 PM  | Fundamentals of Machine Learning                | Bhupendra Raut                     |
+| 02:20 PM - 03:00 PM  | Break / Travel Time                             |                                    |
+| 03:00 PM - 04:00 PM  | Tour of the [OU ARRC](https://arrc.ou.edu/)     |                                    |
 | 04:00 PM - 05:00 PM  | Project Pitches                                 | Joe O'Brien and Scott Collis       |
 
 ## Tuesday, 19 May 2026
@@ -54,12 +58,13 @@ Links to each presentation are included within. However, users may need to reque
 
 | Time                 | Topic                                                          | Presenter(s)                       |
 | :---:                |    :----:                                                      |    :---:                           |
+| 08:00 AM - 08:15 AM  | Travel to National Weather Center                              |                                    |
 | 08:30 AM - 09:00 AM  | Finalize Project Pitch Decks                                   | Joe O'Brien                        |
 | 09:00 AM - 09:30 AM  | Introduction to ARM JupyterHub                                 | Joe O'Brien                        |
-| 09:30 AM - 10:00 AM  | Introduction to Py-ART                                         | Bhupendra Raut                     |
+| 09:30 AM - 10:00 AM  | [Introduction to Py-ART](notebooks/pyart/pyart-basics.ipynb)   | Bhupendra Raut                     |
 | 10:00 AM - 10:30 AM  | Coffee/Tea Break                                               |                                    |
-| 10:30 AM - 11:15 AM  | [Introduction to ACT](notebooks/act/ACT-Basics-BNF.ipynb)      | Adam Theisen                       |
-| 11:15 AM - 12:00 PM  | Introduction to AI/ML                                          | Bobby Jackson                      |
+| 10:30 AM - 11:15 AM  | [Introduction to ACT](notebooks/act/ACT-Basics-SGP.ipynb)      | Adam Theisen                       |
+| 11:15 AM - 12:00 PM  | [Introduction to AI/ML](notebooks/ai-ml/unsupervised-learning-sonde.ipynb)                                          | Bobby Jackson                      |
 | 12:00 PM - 01:00 PM  | Lunch and Learn 3: Simulation Data with LASSO                  | Bill Gustafson                     |
 
 ### Group Project Session 1
@@ -72,6 +77,7 @@ Links to each presentation are included within. However, users may need to reque
 
 | Time                 | Topic                                        | Presenter(s)                       |
 | :---:                |    :----:                                    |    :---:                           |
+| 08:00 AM - 08:15 AM  | Travel to National Weather Center            |                                    |
 | 08:30 AM - 09:30 AM  | Office Hours - Any Issues?                   | Joe O'Brien + Scott Collis         |
 | 09:30 AM - 10:00 AM  | Coffee/Tea Break                             |                                    |
 | 10:00 AM - 12:00 PM  | Group Project Work Time                      | Everyone                           |
@@ -84,6 +90,7 @@ Links to each presentation are included within. However, users may need to reque
 ### Group Presentations and Closeout
 | Time                 | Topic                                  | Presenter(s)                       |
 | :---:                |    :----:                              |    :---:                           |
+| 08:00 AM - 08:15 AM  | Travel to National Weather Center      |                                    |
 | 08:30 AM - 09:00 AM  | Next Steps with the Jupyterhub + ARM   | Michael Giansiracusa               |
 | 09:00 AM - 10:00 AM  | Survey Time + Coffee/Tea               | Joe O'Brien                        |
 | 10:00 AM - 11:15 AM  | Project Presentations                  | Everyone                           |

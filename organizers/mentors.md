@@ -67,3 +67,48 @@ Adam Theisen is the Instrument Operations Manager for the U.S. Department of Ene
 | Adam Theisen | Argonne National Laboratory | TBD | [Professional Website](https://www.anl.gov/profile/adam-k-theisen) <br> [Github](https://github.com/AdamTheisen) |
 
 ```
+
+```{figure} ../images/headshots/alyssa-sockol.jpg
+:width: 250px
+
+Alyssa works to help fulfill the main goal of the Atmospheric Radiation Measurement (ARM) user facility's Data Quality office (DQO), which is to keep an eye on all of ARM’s weather and climate data and make sure that it is of good quality. It is important to provide the most accurate, precise, and reliable data for scientific research. The DQO accomplishes this by writing code that processes the data collected from ARM instruments and creates corresponding plots and metrics in near-real time. This makes it much easier to identify when an instrument is broken and needs to be fixed.
+
+| Instructor | Affiliation | Project Lead  | Links |
+| :--------: | :---------: | :-----------: | :---: |
+| Alyssa Sockol | University of Oklahoma/CIWRO | TBD | [Github](https://github.com/ajsockol) |
+
+```
+
+
+```{figure} ../images/headshots/cadeddu-headshot.jpg
+:width: 250px
+
+Dr. Maria Cadeddu's research interests are related to the application of remote sensing to study clouds and the atmosphere. Maria extensively used large dataset of ground-based and satellite observations, and have developed supervised and unsupervised machine learning/AI models. In particular, Maria uses combined ground-based passive and active sensors to improve our knowledge of the atmospheric state, clouds, and radiation. As the instrument mentor for the Department of Energy Atmospheric Radiation Measurements Program microwave radiometers, Maria's contributions include the use of field observations to evaluate modeling of the 50-60 GHz oxygen complex and of water permittivity in supercooled clouds. Maria has pioneered the use of neural network to retrieve atmospheric water vapor and liquid water path, and developed synergistic retrievals to separate cloud and drizzle water path in drizzling marine clouds. Additional research interests include the study of water budget and turbulence in the boundary layer and the use of remote sensors to study temperature and humidty of Arctic and Antarctic boundary layer.
+
+| Instructor | Affiliation | Project Lead  | Links |
+| :--------: | :---------: | :-----------: | :---: |
+| Maria Cadeddu | Argonne National Laboratory | TBD | [Professional Website](https://www.anl.gov/profile/maria-p-cadeddu) |
+
+```
+
+```{figure} ../images/headshots/connor-flynn-headshot.jpg
+:width: 250px
+
+Dr. Connor Flynn's research interests span a broad range from aerosols to clouds to air quality, but the connecting thread is probably sub-orbital measurements including both ground-based and airborne in situ and remote sensing. Connor is currently involved with airborne HSRL and in situ measurements, ground-based sun photometry and radiometry, surface measurements of aerosol optical, physical, and chemical properties and air quality, lidar remote sensing of smoke and dust, and ground-based retrievals of cloud properties. Connor is very interested in pushing the envelope of cloud/aerosol interactions to focus on the the low end, that is when aerosol burden is light and clouds are just forming and are thin and tenuos. These clouds are at or below the threshold of microwave and radar detection but are very common, have significant impacts on the SW and LW radiation balance, and are the origin of most clouds.
+
+| Instructor | Affiliation | Project Lead  | Links |
+| :--------: | :---------: | :-----------: | :---: |
+| Connor Flynn | University of Oklahoma | TBD | [Github](https://github.com/ConnorJFlynn) |
+
+```
+
+```{figure} ../images/headshots/ma21.png
+:width: 250px
+
+Dr. Hsi-Yen Ma an atmospheric scientist within the Atmospheric, Earth, and Energy Division at Lawrence Livermore National Laboratory. His research interests mainly focus on clouds, precipitation, convection, and their representations in Earth system models. More broadly, his interests include Earth system modeling, dynamics of coupled atmosphere-ocean-land interactions, variability, monsoons, and application of AI techniques to improve Earth system predictions.
+
+| Instructor | Affiliation | Project Lead  | Links |
+| :--------: | :---------: | :-----------: | :---: |
+| Hsi-Yen Ma | Lawrence Livermore National Laboratory | TBD | [Github](https://github.com/hyma68) |
+
+```
